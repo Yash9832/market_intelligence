@@ -1,0 +1,44 @@
+# Core frameworks
+streamlit
+fastapi
+uvicorn
+
+# Data processing
+pandas
+numpy
+
+# Financial data
+yfinance
+
+# Machine learning and prediction
+prophet
+scikit-learn
+
+# HTTP requests
+requests
+
+# Async HTTP and RSS parsing
+aiohttp
+feedparser
+
+# Data validation
+pydantic
+
+# Visualization
+plotly
+
+# Streamlit extensions
+streamlit-autorefresh
+
+# Development and testing
+pytest
+pytest-asyncio
+
+# CORS support
+python-multipart
+
+# Logging and utilities
+python-dotenv
+
+# Gemini AI
+google-generativeai
